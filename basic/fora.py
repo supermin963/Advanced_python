@@ -1,2 +1,3 @@
-x=b'nihao'
+x='nihao'
+x.encode('ascii')
 print(x)
